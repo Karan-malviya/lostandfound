@@ -157,7 +157,7 @@ npm run dev
 **Karan Malviya**
 
 - GitHub: https://github.com/Karan-malviya
-- LinkedIn: https://www.linkedin.com/in/karan-malviya
+- LinkedIn:https://www.linkedin.com/in/karan-malviya-50b674268/
 
 ---
 
