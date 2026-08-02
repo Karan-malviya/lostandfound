@@ -6,7 +6,7 @@ A full-stack **Lost and Found Web Application** that helps users report, search,
 
 ---
 
-## 🚀 Features
+## 🚀Features
 
 - 🔐 User Authentication using JWT
 - 📦 Post Lost & Found Items with images and detailed descriptions
