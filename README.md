@@ -31,7 +31,7 @@ A full-stack **Lost and Found Web Application** that helps users report, search,
 - React Hook Form
 - Socket.io Client
 
-### Backend
+### Back-end 
 - Node.js
 - Express.js
 - MongoDB
