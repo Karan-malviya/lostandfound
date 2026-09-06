@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { 
   Shield, 
   Clock, 
-  CheckCircle, 
+  CheckCircle,
   XCircle, 
   Package,
   Eye,
