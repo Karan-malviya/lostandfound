@@ -4,7 +4,7 @@ import { Search, Download, Users, Crown, Ban, Unlock, Trash2 } from 'lucide-reac
 const UsersTab = ({ 
   users, 
   searchTerm, 
-  setSearchTerm, 
+  setSearchTerm,
   filters, 
   setFilters, 
   onSearch, 
